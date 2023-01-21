@@ -48,7 +48,7 @@ if(เลขที่ == NUMBER_31){
 
 // สิริรัตน์ แฝดกลาง
 
-let NAME_mook = "สิริรัตน์ กลาง"
+let NAME_mook = "สิริรัตน์ แฝดกลาง"
 let AGE_mook = "12"
 let NICKNAME_mook = "มุก"
 let NUMBER_mook = "41"
