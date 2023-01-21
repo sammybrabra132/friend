@@ -45,20 +45,23 @@ if(ชื่อเล่น == NICKNAME_31){
 if(เลขที่ == NUMBER_31){
     document.getElementById("number").innerHTML = ("31")
 }
-let NAME_mom = "วิยดา ตั้งเมธานนท์"
-let AGE_mom = "37"
-let NICKNAME_mom = "ซิ้ว"
-let NUMBER_mom = "37"
 
-if(ชื่อ == NAME_mom){
-document.getElementById("name").innerHTML = ("วิยดา ตั้งเมธานนท์")
+// สิริรัตน์ แฝดกลาง
+
+let NAME_mook = "สิริรัตน์ กลาง"
+let AGE_mook = "12"
+let NICKNAME_mook = "มุก"
+let NUMBER_mook = "41"
+
+if(ชื่อ == NAME_mook){
+document.getElementById("name").innerHTML = ("สิริรัตน์ แฝดกลาง")
 }
-if(อายุ == AGE_mom){
-    document.getElementById("age").innerHTML = ("37")
+if(อายุ == AGE_mook){
+    document.getElementById("age").innerHTML = ("12")
 }
-if(ชื่อเล่น == NICKNAME_mom){
-    document.getElementById("nickname").innerHTML = ("ซิ้ว")
+if(ชื่อเล่น == NICKNAME_mook){
+    document.getElementById("nickname").innerHTML = ("mook mai na rak")
 }
-if(เลขที่ == NUMBER_mom){
-    document.getElementById("number").innerHTML = ("37")
+if(เลขที่ == NUMBER_mook){
+    document.getElementById("number").innerHTML = ("41")
 }
